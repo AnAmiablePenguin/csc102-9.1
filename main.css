@@ -1,0 +1,57 @@
+/*Color pallete*/
+/*https://coolors.co/bfc3ba-a9aca9-60495a-3f3244-2f2235*/
+/* Body to establish background and text color */
+body{
+    background-color: #60495A;
+    color: black;
+    margin-left: 50px;
+}
+/* Nav controls how to the page is displayed */
+nav{
+    position:relative;
+    height: 600px;
+    width: 120px;
+    float: left;
+    padding: 5px;
+    line-height: 30px;
+    background-color: #3F3244;
+}
+/* Center justify text and set space for margin */
+footer{
+    text-align: center;
+    margin-right: 200px;
+}
+/* Center justify */
+header{
+    text-align: center;
+    background-color: #BFC3BA;
+}
+/*Edits the footer attributes*/
+footer{
+    position:absolute;
+    bottom:0;
+    margin-right: right;
+    text-align: center;
+}
+/*Edits the memeImage attributes*/
+#memeImage{
+    position: absolute;
+    scale: 50%;
+}
+
+.button{
+  background-color: #2F2235;
+  border: none;
+  color: white;
+  padding: 10px 24px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+}
+
+#form{
+    font-size:medium;
+    margin-right: auto;
+}
